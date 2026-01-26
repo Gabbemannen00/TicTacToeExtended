@@ -25,7 +25,7 @@ To run this project you need:
 Open a terminal and run:
 
 ```bash
-git clone https://github.com/<your-username>/tictactoe.git
+git clone https://github.com/Gabbemannen00/TicTacToeExtended.git
 cd tictactoe
 ```
 
