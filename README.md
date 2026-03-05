@@ -101,26 +101,3 @@ Example board layout:
 Type a number (1–9) and press Enter to place your move.
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-See the [LICENSE](LICENSE) file for details.
-
----
-
-## ✨ Notes
-
-* This project is intended as a learning and portfolio project.
-* Feel free to fork it, modify it, and build your own version.
-
----
-
-## 👤 Author
-
-Gabriel Carlsson
-IoT & Embedded Developer Student
-
----
-
-If you have any issues running the game, feel free to open an issue or contact me on GitHub.
